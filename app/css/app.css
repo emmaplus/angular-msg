@@ -1,0 +1,8 @@
+.msg-list li .icon-remove {
+    display: none;
+    margin-left: 10px
+}
+
+.msg-list li:hover .icon-remove {
+    display: inline-block;
+}

@@ -1,0 +1,14 @@
+{
+	"name" : "angular-message",
+	"description" : "AngularJS+Firebase 留言板",
+	"version" : "0.0.0",
+	"homepage" : "https://github.com/angular/angular-message",
+	"license" : "MIT",
+	"private" : true,
+	"dependencies" : {
+		"angular" : "1.2.x",
+		"bootstrap" : "~3.1.1",
+		"jquery" : "1.10.2",
+		"firebase" : "~1.0.x"
+	}
+}
